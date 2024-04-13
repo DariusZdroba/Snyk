@@ -50,11 +50,14 @@ While for an `array`, we need to shift all elements one position forward, only t
 
 # 6.How would you explain to a 5-year-old how the WWW works?
 
-The *WWW* means World Wide Web, it is called World Wide because it has all the pages you can imagine from the internet from the anywhere in the world.
+The *WWW* means `World Wide Web`, it is called World Wide because it has all the pages you can imagine from the `internet` from the anywhere in the world.
 There are some rules that the pages need to obey, called *HTTP* so that it won't be cahotic.
-The *WWW* contains these web pages, most of them use the same language, "HTML", it stands for Hypertext Markup Language, in this language website can speak trough words or images, or even videos.
+The *WWW* contains these web pages, most of them use the same language, "HTML", it stands for `Hypertext Markup Language`, in this language website can speak trough *words* or *images*, or even *videos*.
 This language is useful because every page knows how to show us those images or videos and where to put them.
-In order for us to go to a certain page, we need it's address, just like in real life, we need the address to know where to look for that web page, that address in computer terms is called a **URL**, it stands for
-Uniform Resource Locator, it got that name because it locates the page we are looking for.
-In order to get to the page we want to access or computer asks for it and through the "internet" it is delivered forward to another computer, or if the address is far away from us, many computers, each computer telling the next computer that we asked for that page. If we imagine a real life address, the computer might not know the street but it might know the city, so it can send our message to a computer from that city.From there a computer might even know the address, when we get to the address, the message is recievd by a computer that has the web page we want to access, and then it can respond to us with the details of the web page, sending the message back trough a similar route back to our address.
+
+In order for us to go to a certain page, we need it's **address**, just like in real life, we need the address to know where to look for that web page, that address in computer terms is called a **URL**, it stands for `Uniform Resource Locator`, it got that name because it locates the page we are looking for.
+
+In order to get to the page we want to access or computer asks for it and through the **internet** it is delivered forward to another computer, or if the address is far away from us, many computers, each computer telling the next computer that we asked for that page. 
+If we imagine a real life address, the computer might not know the street but it might know the city from the address we are looking for, so it can send our message to a computer from that city from there a computer might even know the actual address. 
+When we get to the address, the message is recievd by a computer that has the web page we want, and then it can `respond` to us with the details of the web page, sending the message back trough a similar route back to our address.
 All of this takes place within the hit of a button.
