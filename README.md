@@ -1,7 +1,7 @@
-## Snyk Technical Assessment
+# Snyk Technical Assessment
 
 
-# 1.Explain the difference between a stack and a queue. Provide real life examples of real-life scenarios where each of them are used appropriately.
+## 1.Explain the difference between a stack and a queue. Provide real life examples of real-life scenarios where each of them are used appropriately.
 
 A `stack` is a data structure that resembles a real-life stack, such as a stack of plates, when we want to get a plate, we always get the plate from the top, that's why a stack is obedient to the `LIFO` (Last In First Out) method, because the plate at the top is the last one that was place.
 In Software, a solid example is a text editor, we keep entering characters and when we press the backspace key, the last character is deleted.
@@ -15,7 +15,7 @@ In Software, there could be an application for a Call Center where calls are rec
   + In a stack, both insertion and deletion occurs at the top of the stack, while for a queue, we add an element at the end of the queue and we remove an element from the beginning.
 
 
-# 2.What is the difference between an array and a linked list? Provide advantages and disadvantages of each data structure
+## 2.What is the difference between an array and a linked list? Provide advantages and disadvantages of each data structure
 
 An `array` is a data structure that allows us to store multiple elements of the same type. It uses a chunk of set size memory where we can fit these elements.Elements can be accessed by their index, representing their position in the array.
 
@@ -29,7 +29,7 @@ While for an `array`, we need to shift all elements one position forward, only t
   + If memory is an issue, an `array` is more beneficial because it has a predefined fix size, and a linked list, along with data, also stores the pointer address of the next node.
 
 
-# 3.What is HTTP? How is it different from HTTPS?
+## 3.What is HTTP? How is it different from HTTPS?
 
   + `HTTP` stands for `Hypertext Transfer Protocol` and it is a set of rules of communication between the client and server, when accessing a website, we send an **HTTP request** to the server, it responds with an **HTTP resposne**.
   + `HTTPS` stand for `Hypertext Transfer Protocol Secure`, websites that use *HTTPS* have a greater level of security because the website must have an **SSL**(Secure Socket Layer) certificate.
@@ -42,13 +42,13 @@ While for an `array`, we need to shift all elements one position forward, only t
   `201` - Means 'Created'.
   `400` - Bad request
   `401` - Unauthorized
-# 5.What is the difference between authorization and authentication?
+## 5.What is the difference between authorization and authentication?
 
 `Authorization` means "permission", if someone is *authorized* to perform a certain action, it means they have the permision to perform said task.
 `Authentication` is the process of verifying the identity of a user, then we are able to check if the user is *authorized* to perform certain tasks.
 
 
-# 6.How would you explain to a 5-year-old how the WWW works?
+## 6.How would you explain to a 5-year-old how the WWW works?
 
 The *WWW* means `World Wide Web`, it is called World Wide because it has all the pages you can imagine from the `internet` from the anywhere in the world.
 There are some rules that the pages need to obey, called *HTTP* so that it won't be cahotic.
@@ -61,3 +61,6 @@ In order to get to the page we want to access or computer asks for it and throug
 If we imagine a real life address, the computer might not know the street but it might know the city from the address we are looking for, so it can send our message to a computer from that city from there a computer might even know the actual address. 
 When we get to the address, the message is recievd by a computer that has the web page we want, and then it can `respond` to us with the details of the web page, sending the message back trough a similar route back to our address.
 All of this takes place within the hit of a button.
+
+## Problems 7 and 8
+ For these problems, I have used `C#` Console Applications, final implementation resides within the 'Program.cs' from each of the folders.
