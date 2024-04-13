@@ -1,4 +1,4 @@
-# Snyk Technical Assessment
+## Snyk Technical Assessment
 
 
 # 1.Explain the difference between a stack and a queue. Provide real life examples of real-life scenarios where each of them are used appropriately.
@@ -33,4 +33,28 @@ While for an `array`, we need to shift all elements one position forward, only t
 
   + `HTTP` stands for `Hypertext Transfer Protocol` and it is a set of rules of communication between the client and server, when accessing a website, we send an **HTTP request** to the server, it responds with an **HTTP resposne**.
   + `HTTPS` stand for `Hypertext Transfer Protocol Secure`, websites that use *HTTPS* have a greater level of security because the website must have an **SSL**(Secure Socket Layer) certificate.
-  + *HTTPS* is different from *HTTP*, while in HTTP data is sent ast plaintext and can be intercepted by other uesrs, *HTTPS* provides encryption of the data and performs checks for identity to make sure the data is sent to the right place. 
+  + *HTTPS* is different from *HTTP*, while in HTTP data is sent ast plaintext and can be intercepted by other uesrs, *HTTPS* provides encryption of the data and performs checks for identity to make sure the data is sent to the right place.
+
+# 4.Can you give some examples of common HTTP response codes?
+  `500` - Server Error
+  `404` - Resource requested is not found
+  `200` - OK, meaning the request has been executed successfuly
+  `201` - Means 'Created'.
+  `400` - Bad request
+  `401` - Unauthorized
+# 5.What is the difference between authorization and authentication?
+
+`Authorization` means "permission", if someone is *authorized* to perform a certain action, it means they have the permision to perform said task.
+`Authentication` is the process of verifying the identity of a user, then we are able to check if the user is *authorized* to perform certain tasks.
+
+
+# 6.How would you explain to a 5-year-old how the WWW works?
+
+The *WWW* means World Wide Web, it is called World Wide because it has all the pages you can imagine from the internet from the anywhere in the world.
+There are some rules that the pages need to obey, called *HTTP* so that it won't be cahotic.
+The *WWW* contains these web pages, most of them use the same language, "HTML", it stands for Hypertext Markup Language, in this language website can speak trough words or images, or even videos.
+This language is useful because every page knows how to show us those images or videos and where to put them.
+In order for us to go to a certain page, we need it's address, just like in real life, we need the address to know where to look for that web page, that address in computer terms is called a **URL**, it stands for
+Uniform Resource Locator, it got that name because it locates the page we are looking for.
+In order to get to the page we want to access or computer asks for it and through the "internet" it is delivered forward to another computer, or if the address is far away from us, many computers, each computer telling the next computer that we asked for that page. If we imagine a real life address, the computer might not know the street but it might know the city, so it can send our message to a computer from that city.From there a computer might even know the address, when we get to the address, the message is recievd by a computer that has the web page we want to access, and then it can respond to us with the details of the web page, sending the message back trough a similar route back to our address.
+All of this takes place within the hit of a button.
