@@ -36,12 +36,12 @@ While for an `array`, we need to shift all elements one position forward, only t
   + *HTTPS* is different from *HTTP*, while in HTTP data is sent ast plaintext and can be intercepted by other uesrs, *HTTPS* provides encryption of the data and performs checks for identity to make sure the data is sent to the right place.
 
 # 4.Can you give some examples of common HTTP response codes?
-  `500` - Server Error
-  `404` - Resource requested is not found
-  `200` - OK, meaning the request has been executed successfuly
-  `201` - Means 'Created'.
-  `400` - Bad request
-  `401` - Unauthorized
+ + `500` - Server Error
+ + `404` - Resource requested is not found
+ + `200` - OK, meaning the request has been executed successfuly
+ + `201` - Means 'Created'.
+ + `400` - Bad request
+ + `401` - Unauthorized
 ## 5.What is the difference between authorization and authentication?
 
 `Authorization` means "permission", if someone is *authorized* to perform a certain action, it means they have the permision to perform said task.
