@@ -1,0 +1,14 @@
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\bin\Debug\net8.0\SnykProblem8.exe
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\bin\Debug\net8.0\SnykProblem8.deps.json
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\bin\Debug\net8.0\SnykProblem8.runtimeconfig.json
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\bin\Debug\net8.0\SnykProblem8.dll
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\bin\Debug\net8.0\SnykProblem8.pdb
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.AssemblyInfoInputs.cache
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.AssemblyInfo.cs
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.csproj.CoreCompileInputs.cache
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.dll
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\refint\SnykProblem8.dll
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.pdb
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\SnykProblem8.genruntimeconfig.cache
+C:\Users\Darius\source\repos\SnykProblem8\SnykProblem8\obj\Debug\net8.0\ref\SnykProblem8.dll
